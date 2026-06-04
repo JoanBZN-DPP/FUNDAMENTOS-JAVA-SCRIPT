@@ -27,6 +27,6 @@ console.log("Precio:",precio);
 console.log("Disponible:",disponible);
 console.log("Descripcion:",descripcion);
 
-document.write
+
 
 
